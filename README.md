@@ -5,7 +5,7 @@ a list of every side order's in game and internal names
 
 
 
-|Floor Internal|Floor Name|
+|*Floor Internal*|*Floor Name*|
 |-|-|
 |airLift_lift|All-the-Way-Down(Then-Up-Again).Floor|
 |-|-|
@@ -19,7 +19,7 @@ a list of every side order's in game and internal names
 |antHell_spawner|Danger-Magnet_Bowl.Floor|
 |antHell_spawner_2|Bowl.Floor|
 |-|-|
-|BallKing_10F|Elusive-Bounder.Floo|
+|BallKing_10F|Elusive-Bounder.Floor|
 |BallKing_20F|Elusive-Bounder.Floor|
 |-|-|
 |BarrierKingSdodrlida|Control Room|
